@@ -10,7 +10,7 @@ body {
 
 .column {
     width: 100%;
-    max-width: 108px;
+    max-width: 100px;
     height: 936px;
     margin-left: 25px;
     background: #f3e3dd;
