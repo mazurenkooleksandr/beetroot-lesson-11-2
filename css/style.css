@@ -69,7 +69,7 @@ hr {
 .all-pictures {
     width: 1170px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-left: 25px;
     position: relative;
     top: -740px;
