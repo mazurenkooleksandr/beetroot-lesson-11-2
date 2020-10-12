@@ -70,6 +70,7 @@ hr {
 
 .all-pictures {
     width: 1500px;
+    margin-left: 25px;
     display: flex;
     justify-content: space-between;
     position: relative;
