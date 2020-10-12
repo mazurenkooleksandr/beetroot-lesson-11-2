@@ -10,6 +10,7 @@ body {
 
 .column {
     width: 100%;
+    max-width: 1170px;
     max-width: 100px;
     height: 936px;
     margin-left: 25px;
@@ -19,7 +20,6 @@ body {
 
 .header-text {
     color: #3c3c3c;
-    
     font-size: 34px;
     font-weight: 700;
     text-align: center;
@@ -67,8 +67,10 @@ hr {
 }
 
 .all-pictures {
+    width: 1170px;
     display: flex;
     justify-content: space-evenly;
+    margin-left: 25px;
     position: relative;
     top: -740px;
 }
