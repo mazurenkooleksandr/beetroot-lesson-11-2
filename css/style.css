@@ -3,12 +3,9 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .wrapper {
-    width: 1500px;
     display: flex;
     justify-content: center;  
 }
@@ -65,16 +62,13 @@ hr {
 }
 
 .all-text {
-    width: 1500px;
     position: relative;
     top: -850px;
 }
 
 .all-pictures {
-    width: 1500px;
-    margin-left: 25px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     position: relative;
     top: -740px;
 }
