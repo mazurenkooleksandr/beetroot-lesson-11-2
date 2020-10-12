@@ -67,10 +67,9 @@ hr {
 }
 
 .all-pictures {
-    width: 1170px;
     display: flex;
-    justify-content: space-around;
-    margin-left: 25px;
+    justify-content: center;
+    justify-content: space-evenly;
     position: relative;
     top: -740px;
 }
