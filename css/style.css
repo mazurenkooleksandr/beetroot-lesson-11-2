@@ -5,7 +5,7 @@ body {
 .wrapper {
     width: 1500px;
     display: flex;
-    text-align: center;
+    
     margin-right: 25px;  
 }
 
@@ -15,6 +15,7 @@ body {
     margin-left: 25px;
     background: #f3e3dd;
     display: inline-block;
+    justify-content: center;
 }
 
 .header-text {
@@ -66,10 +67,10 @@ hr {
 }
 
 .all-pictures {
-    width: 1500px;
+    width: 1475px;
     margin-left: 25px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     position: relative;
     top: -740px;
 }
