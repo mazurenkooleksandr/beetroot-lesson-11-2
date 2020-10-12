@@ -3,10 +3,8 @@ body {
 }
 
 .wrapper {
-    width: 1500px;
     display: flex;
-    
-    margin-right: 25px;  
+    justify-content: center;  
 }
 
 .column {
@@ -15,7 +13,7 @@ body {
     margin-left: 25px;
     background: #f3e3dd;
     display: inline-block;
-    justify-content: center;
+    
 }
 
 .header-text {
@@ -67,7 +65,6 @@ hr {
 }
 
 .all-pictures {
-    width: 1475px;
     margin-left: 25px;
     display: flex;
     justify-content: space-between;
