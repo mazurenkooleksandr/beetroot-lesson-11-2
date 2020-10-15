@@ -7,7 +7,7 @@ body {
 
 .wrapper {
     display: flex;
-    justify-content: center;  
+    justify-content: center; 
 }
 
 .column {
@@ -63,7 +63,7 @@ hr {
 
 .all-text {
     position: relative;
-    top: -850px;
+    bottom: 900px;
     margin-left: 25px;
 }
 
@@ -72,8 +72,8 @@ hr {
     justify-content: space-evenly;
     position: relative;
     top: -740px;
-    margin-left: 75px;
-    margin-right: 50px;
+    margin-left: 85px;
+    margin-right: 60px;
 }
 
 .card {
@@ -107,3 +107,7 @@ img {
 .card:hover .overlay {
     opacity: 0.9;
 }
+
+
+
+
