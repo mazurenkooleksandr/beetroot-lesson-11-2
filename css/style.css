@@ -6,17 +6,20 @@ body {
 }
 
 .wrapper {
+    width: 1400px;
+    height: 1000px;
     display: flex;
-    justify-content: center; 
+    padding: 150px 0;
+    margin: 0 auto; 
 }
 
 .column {
     width: 100px;
     height: 936px;
-    margin-left: 25px;
-    background: #f3e3dd;
-    
+    margin-left: 15px;
+    background: #f3e3dd; 
 }
+
 
 .header-text {
     color: #3c3c3c;
@@ -41,10 +44,9 @@ hr {
     color: #3c3c3c;
     font-size: 16px;
     font-weight: 300;
-    line-height: 24px;
+    line-height: 24px;;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 .first-text {
@@ -62,18 +64,22 @@ hr {
 }
 
 .all-text {
+    width: 1400px;
     position: relative;
-    bottom: 900px;
-    margin-left: 25px;
+    bottom: 1100px;
+    margin: 0 auto;
+   
+
 }
 
 .all-pictures {
+    width: 1400px;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     position: relative;
-    top: -740px;
-    margin-left: 85px;
-    margin-right: 60px;
+    top: -940px; 
+    margin: 0 auto;  
 }
 
 .card {
@@ -82,14 +88,13 @@ hr {
 }
   
 img {
-    vertical-align: middle;
     opacity: 0.9;
 }
   
 .overlay {
-    position: absolute;
     width: 269px;
     height: 268px;
+    position: absolute;
     top: 0;
     left: 0;
     background: rgba(0, 174, 217, 1);
