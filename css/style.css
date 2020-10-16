@@ -14,7 +14,7 @@ body {
 }
 
 .column {
-    width: 100px;
+    width: 100.4px;
     height: 936px;
     margin-left: 15px;
     background: #f3e3dd; 
@@ -75,8 +75,7 @@ hr {
 .all-pictures {
     width: 1400px;
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    justify-content: center;
     position: relative;
     top: -940px; 
     margin: 0 auto;  
@@ -85,6 +84,7 @@ hr {
 .card {
     position: relative;
     display: inline-block;
+    margin: 49px;
 }
   
 img {
